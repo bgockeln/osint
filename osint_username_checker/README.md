@@ -1,14 +1,16 @@
 # OSINT Username Checker
+For German version of this README, see [README_DE.md](README_DE.md)
 
-This project is a **simple username checker** designed to give beginners hands-on experience with basic OSINT techniques.
+This project is a **simple username checker** designed to give beginners(me) hands-on experience with basic OSINT techniques.
 
 The script works by making a **HTTP request** to the server of a selected website and checking the response to determine whether a username exists.
 
 Currently, the supported sites are:
 
-- GitHub: ```https://github.com/<username>```
-- TikTok: ```https://www.tiktok.com/@<username>```
-- X/Twitter: ```https://www.x.com/<username>```
+- **GitHub:** `https://github.com/<username>`
+- **Instagram** `https://instagram.com/<username>`
+- **TikTok:** `https://www.tiktok.com/@<username>`
+- **X/Twitter:** `https://www.x.com/<username>`
 
 (Instagram and X/Twitter were tested but may show false positives, so they are not fully reliable.)
 

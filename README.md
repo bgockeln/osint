@@ -1,4 +1,5 @@
 # OSINT Projects
+For German version of this README, see [README_DE.md](README_DE.md)
 
 This folder contains my collection of beginner-friendly OSINT (Open Source Intelligence) projects.  
 Each project is organized into its own subfolder with a dedicated README explaining its purpose, usage, and limitations.

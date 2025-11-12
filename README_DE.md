@@ -1,0 +1,12 @@
+# OSINT-Projekte
+
+Dieser Ordner enthält meine Sammlung von einsteigerfreundlichen OSINT-Projekten (Open Source Intelligence).
+Jedes Projekt ist in einem eigenen Unterordner organisiert und verfügt über eine README-Datei, die Zweck, Nutzung und Einschränkungen erklärt.
+
+## Aktuelle Projekte
+
+**Username Checker** (`osint_username_checker`)
+
+- Ein einfaches Skript, um zu prüfen, ob ein Benutzername auf GitHub, TikTok, Instagram und X/Twitter existiert.
+- Es werden nur öffentliche Profile zuverlässig erkannt.
+- [Projekt README](./osint_username_checker/README_DE.md)
