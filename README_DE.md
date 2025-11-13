@@ -14,3 +14,4 @@ Jedes Projekt ist in einem eigenen Unterordner organisiert und verfügt über ei
     - Ein einfaches Skript, das verschiedene Informationen zu einer Domain abfragt.
     - Unterstützt: WHOIS-Abfrage, DNS-Auflösung, IP-Geolokalisierung, Server-Fingerprints und Shodan-Hostberichte.
     - Die Shodan-Hostberichte sind experimentell.
+    - [Projekt README](./domain_information_tool/README_DE.md)

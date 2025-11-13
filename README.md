@@ -15,5 +15,5 @@ Each project is organized into its own subfolder with a dedicated README explain
    - A simple script to look up various types of domain information.
    - Supports: WHOIS lookup, DNS resolution, IP geolocation, server fingerprints and Shodan host reports.
    - Shodan host reports are experimental.
-
+   - [See project README for details](./domain_information_tool/README.md)
 
