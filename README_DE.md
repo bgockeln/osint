@@ -5,8 +5,12 @@ Jedes Projekt ist in einem eigenen Unterordner organisiert und verfügt über ei
 
 ## Aktuelle Projekte
 
-**Username Checker** (`osint_username_checker`)
+1. **Username Checker** (`osint_username_checker`)
+    - Ein einfaches Skript, um zu prüfen, ob ein Benutzername auf GitHub, TikTok, Instagram und X/Twitter existiert.
+    - Es werden nur öffentliche Profile zuverlässig erkannt.
+    - [Projekt README](./osint_username_checker/README_DE.md)
 
-- Ein einfaches Skript, um zu prüfen, ob ein Benutzername auf GitHub, TikTok, Instagram und X/Twitter existiert.
-- Es werden nur öffentliche Profile zuverlässig erkannt.
-- [Projekt README](./osint_username_checker/README_DE.md)
+2. **Domain Information Tool** (`domain_information_tool`)
+    - Ein einfaches Skript, das verschiedene Informationen zu einer Domain abfragt.
+    - Unterstützt: WHOIS-Abfrage, DNS-Auflösung, IP-Geolokalisierung, Server-Fingerprints und Shodan-Hostberichte.
+    - Die Shodan-Hostberichte sind experimentell.
