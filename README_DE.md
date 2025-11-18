@@ -1,4 +1,7 @@
 # OSINT-Projekte
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-work--in--progress-yellow)
 
 Dieser Ordner enthält meine Sammlung von einsteigerfreundlichen OSINT-Projekten (Open Source Intelligence).
 Jedes Projekt ist in einem eigenen Unterordner organisiert und verfügt über eine README-Datei, die Zweck, Nutzung und Einschränkungen erklärt.
