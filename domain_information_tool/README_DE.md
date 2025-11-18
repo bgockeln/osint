@@ -1,6 +1,7 @@
 # Domain Information Lookup Tool
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-work--in--progress-yellow)
 
 Ein weiteres einfaches ``Python-Skript``, das verschiedene Informationen
 über eine angegebene Domain sammelt.

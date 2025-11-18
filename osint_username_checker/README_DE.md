@@ -1,7 +1,7 @@
 # OSINT Username Checker
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-work--in--progress-yellow)
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
 Dieses Projekt ist ein **einfacher Username-Checker**, der Einsteigern(mir) praktische Erfahrung mit grundlegenden OSINT-Techniken (Open Source Intelligence) vermittelt.
 
